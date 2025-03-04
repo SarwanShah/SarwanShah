@@ -125,8 +125,8 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
 </div> 
 
 ## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamahmood24&show_icons=true&theme=merko&locale=en&layout=compact" alt="tahamahmood24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwanshah&show_icons=true&theme=merko&locale=en&layout=compact" alt="sarwanshah" /></p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamahmood24&label=Profile%20views&color=0e75b6&style=flat" alt="tahamahmood24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwanshah&label=Profile%20views&color=0e75b6&style=flat" alt="sarwanshah" /> </p>
 </br>
