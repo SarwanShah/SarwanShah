@@ -113,9 +113,10 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
   </a>
   
   <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</a>
+
   
   <!-- Redis -->
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
