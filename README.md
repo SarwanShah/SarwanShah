@@ -19,29 +19,6 @@
   - Leading a project to predict wind speed and direction using CNNs and wind noise correlation.
   - Designing a CubeSat test-bench to explore wireless power transfer using reconfigurable metasurfaces.
 
-## 💻 Professional Experience
-- **IoT Solutions Engineer, Invixible**  
-  - Engineered high-throughput IoT gateways and backend services for over 10 global customers.
-  - Built robust microservices handling diverse communication protocols and overcoming critical system bottlenecks.
-  
-- **Software Engineer, Airlift Technologies**  
-  - Optimized backend APIs, integrated internationalization efforts, and migrated analytics for millions of users.
-  
-- **Research Assistant, Habib University**  
-  - Developed IoT-enabled, energy-efficient water flow measurement systems, achieving high accuracy and long battery life.
-
-## 🚀 Projects & Highlights
-- **Wind Speed Estimation Using Machine Learning**  
-  - Engineered a 5,000-sample wind noise dataset and implemented a CNN achieving a MAE of 1.12 m/s.
-  
-- **Precipitation Nowcasting Using Deep Learning**  
-  - Leveraged ConvLSTM and TrajGRU models for granular precipitation prediction using high-resolution satellite data.
-  
-- **Distracted Pedestrian Behavior Classification**  
-  - Built and augmented a dataset to classify pedestrian behavior using various machine learning models.
-  
-- **Cart Mounted Inverted Pendulum Test Bench & Hoshruba Game**  
-  - Developed embedded control systems and a C++ game engine, demonstrating technical versatility.
 
 ## My Skill Set  
 <p align="left">
