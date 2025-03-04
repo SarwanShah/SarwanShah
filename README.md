@@ -10,7 +10,6 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
 
 ## My Skill Set  
 <p align="left">
-
   <!-- C: Link to C Programming website with C language logo -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -21,7 +20,7 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 
-    <!-- JavaScript -->
+  <!-- JavaScript -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -40,7 +39,6 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-
 </p>
 
 
