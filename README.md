@@ -83,6 +83,49 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
   </a>
 </p>
 
+<p align="left">
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://colab.research.google.com/img/colab_favicon_256.png" alt="Google Colab" width="40" height="40"/>
+  </a>
+  
+  <!-- Google Earth Engine -->
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://earthengine.google.com/static/images/ee-logo.svg" alt="Google Earth Engine" width="40" height="40"/>
+  </a>
+  
+  <!-- ANSYS (generic ANSYS logo) -->
+  <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Ansys_logo.svg" alt="ANSYS HFSS" width="80" height="30"/>
+  </a>
+  
+  <!-- Pspice (OrCAD logo is sometimes used) -->
+  <a href="https://www.pspice.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Orcad_PSpice_icon.svg" alt="Pspice" width="40" height="40"/>
+  </a>
+  
+  <!-- Proteus (Labcenter Proteus) -->
+  <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.labcenter.com/images/proteusLogo.png" alt="Proteus" width="100" height="40"/>
+  </a>
+  
+  <!-- STM32CubeIDE -->
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/STM32CubeIDE_Logo.svg" alt="STM32CubeIDE" width="40" height="40"/>
+  </a>
+  
+  <!-- NI LabVIEW -->
+  <a href="https://www.ni.com/labview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/LabVIEW_Logo.png" alt="LabVIEW" width="40" height="40"/>
+  </a>
+  
+  <!-- ROS -->
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ros-artwork/ros_brand/51d5dfb6d53d4be05637a0fdbdf613bc13ea2346/logo/distribution/ROS-Logo.png" alt="ROS" width="60" height="40"/>
+  </a>
+</p>
+
+
 
 ## Connect with me  
 <div align="center">
