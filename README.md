@@ -71,12 +71,7 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
 </p>
 
 
-<p align="left">
-  <!-- R -->
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  
+<p align="left">  
   <!-- JavaScript -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
