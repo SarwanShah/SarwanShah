@@ -1,17 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sarwan Shah</h1>
 
 <p align="left">
-  As a dedicated graduate student in Electrical Engineering at Arizona State University, I specialize in Machine Learning and Embedded Systems. I’m also a Graduate Research Assistant at The Luminosity Lab, where I work on pioneering projects ranging from embedded systems for NASA challenges to advanced CNN-based sensor solutions.
+  I am dedicated graduate student in Electrical Engineering and Fulbright Scholar at Arizona State University, , I specialize in Machine Learning and Embedded Systems. I’m also a Graduate Research Assistant at The Luminosity Lab, where I work on pioneering projects ranging from embedded systems for NASA challenges to advanced CNN-based sensor solutions.
 </p>
-
-## 🎓 Education & Research
-- **Master of Science in Electrical Engineering (Machine Learning & Embedded Systems)**  
-  Arizona State University | CGPA: 3.97/4  
-  *Fulbright Scholar*
-  
-- **Bachelor of Science in Electrical Engineering**  
-  Habib University | CGPA: 3.74/4  
-  *Merit Scholar, Dean’s List, Maker Extraordinaire Graduation Honor*
 
 ## 🔭 Current Work
 - **Graduate Research Assistant, The Luminosity Lab**  
