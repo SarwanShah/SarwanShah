@@ -30,10 +30,6 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
   
-  <!-- OpenCV: Link to OpenCV official website with OpenCV icon -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
   
   <!-- Pandas: Link to Pandas official website with Pandas logo -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -57,11 +53,6 @@ As a dedicated graduate student in Electrical Engineering, I'm thrilled to welco
   <!-- PyTorch: Link to PyTorch official website with PyTorch icon -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  
-  <!-- scikit-learn: Link to scikit-learn official website with its logo -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   
   <!-- TensorFlow: Link to TensorFlow official website with TensorFlow icon -->
