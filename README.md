@@ -1,12 +1,47 @@
 <h1 align="left">Hi 👋, I'm Sarwan Shah</h1>
-As a dedicated graduate student in Electrical Engineering, I'm thrilled to welcome you to my GitHub realm and look at
 
-- 🧑‍🎓 I am currently pursuing a Master's in Electrical Engineering from Arizona State University (ASU) with a focus on Machine Learning and Embedded Systems.
+<p align="left">
+  As a dedicated graduate student in Electrical Engineering at Arizona State University, I specialize in Machine Learning and Embedded Systems. I’m also a Graduate Research Assistant at The Luminosity Lab, where I work on pioneering projects ranging from embedded systems for NASA challenges to advanced CNN-based sensor solutions.
+</p>
+
+## 🎓 Education & Research
+- **Master of Science in Electrical Engineering (Machine Learning & Embedded Systems)**  
+  Arizona State University | CGPA: 3.97/4  
+  *Fulbright Scholar*
   
+- **Bachelor of Science in Electrical Engineering**  
+  Habib University | CGPA: 3.74/4  
+  *Merit Scholar, Dean’s List, Maker Extraordinaire Graduation Honor*
 
-- 🔭 I currently also work as a research engineer for The Luminosity Lab at ASU, where I've had the opportunity to work on some cool projects 
+## 🔭 Current Work
+- **Graduate Research Assistant, The Luminosity Lab**  
+  - Developed an embedded system for an inflatable lunar landing pad (NASA Big Idea Challenge 2024) with award-winning systems engineering.
+  - Leading a project to predict wind speed and direction using CNNs and wind noise correlation.
+  - Designing a CubeSat test-bench to explore wireless power transfer using reconfigurable metasurfaces.
 
+## 💻 Professional Experience
+- **IoT Solutions Engineer, Invixible**  
+  - Engineered high-throughput IoT gateways and backend services for over 10 global customers.
+  - Built robust microservices handling diverse communication protocols and overcoming critical system bottlenecks.
   
+- **Software Engineer, Airlift Technologies**  
+  - Optimized backend APIs, integrated internationalization efforts, and migrated analytics for millions of users.
+  
+- **Research Assistant, Habib University**  
+  - Developed IoT-enabled, energy-efficient water flow measurement systems, achieving high accuracy and long battery life.
+
+## 🚀 Projects & Highlights
+- **Wind Speed Estimation Using Machine Learning**  
+  - Engineered a 5,000-sample wind noise dataset and implemented a CNN achieving a MAE of 1.12 m/s.
+  
+- **Precipitation Nowcasting Using Deep Learning**  
+  - Leveraged ConvLSTM and TrajGRU models for granular precipitation prediction using high-resolution satellite data.
+  
+- **Distracted Pedestrian Behavior Classification**  
+  - Built and augmented a dataset to classify pedestrian behavior using various machine learning models.
+  
+- **Cart Mounted Inverted Pendulum Test Bench & Hoshruba Game**  
+  - Developed embedded control systems and a C++ game engine, demonstrating technical versatility.
 
 ## My Skill Set  
 <p align="left">
