@@ -9,6 +9,7 @@
   - Developed an embedded system for an inflatable lunar landing pad (NASA Big Idea Challenge 2024) with award-winning systems engineering.
   - Leading a project to predict wind speed and direction using CNNs and wind noise correlation.
   - Designing a CubeSat test-bench to explore wireless power transfer using reconfigurable metasurfaces.
+  - Developing an aerosol particle analyzer for a silicon valley inventor. 
 
 
 ## My Skill Set  
