@@ -11,7 +11,7 @@
   - Designing a CubeSat test-bench to explore wireless power transfer using reconfigurable metasurfaces.
   - Developing an aerosol particle analyzer for a silicon valley inventor. 
 
-## 🔭 Publications
+## 📝 Publications
 
 -  J. Ahmed Memon, A. Rehman, A. Ali, S. Shah and H. F. Khan, "Design and Implementation of Smart
  Flowmeter for Urban Water Metering," IECON 2022 â 48th Annual Conference of the IEEE Industrial Electro
