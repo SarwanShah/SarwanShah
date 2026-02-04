@@ -5,7 +5,7 @@
 </p>
 
 ## Current Work:
-   - Founder at Nimbus Labs, where I am working on building AI-powered forecasting technologies designed specifically for Pakistan’s climate challenges, to deliver hyper-local weather intelligence that strengthens early-warning capabilities and drives business needs across the country. 
+   - Founder at Nimbus Labs, where I am working on building AI-powered weather forecasting technologies designed specifically for Pakistan’s climate challenges, to deliver hyper-local weather intelligence that strengthens early-warning capabilities and drives business needs across the country. 
 
 ## 🔭 Recent Work Experience
 - **Graduate Research Assistant, The Luminosity Lab**  
