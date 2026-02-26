@@ -136,7 +136,6 @@ nics Society, 2022, pp. 1-6, doi : 10.1109/IECON49645.2022.9968961
 </a>  
 </div> 
 
-## Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwanshah&show_icons=true&theme=merko&locale=en&layout=compact" alt="sarwanshah" /></p>
 
 <br>
