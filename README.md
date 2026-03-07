@@ -4,7 +4,6 @@
 I'm currently working on creating Nimbus Labs, where we're creating solutions for weather intelligence in Pakistan and addressing some of Pakistan’s most pressing climate challenges. Professionally, I’m an Electrical Engineer and a Fulbright Scholar (2023). I specialize in machine learning, embedded systems, some meteorology, and IoT, with my industry experience spanning across research, systems engineering, and developing scalable backend systems. My work is deeply motivated by my passion for solving meaningful problems that have a direct impact on the community around me. When I’m not working, I enjoy being outdoors in nature, playing the piano, and tracking storms as a weather enthusiast
 </p>
 
-## Current Work:
 
 ## 🔭 Most Recent Work Experience
 - **Graduate Research Assistant, The Luminosity Lab**  
