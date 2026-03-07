@@ -1,13 +1,12 @@
-<h1 align="left">Hi 👋, I'm Sarwan Shah</h1>
+<h1 align="left">Hey there!👋, I'm Sarwan Shah</h1>
 
 <p align="left">
-  I am dedicated Electrical Engineer graduate student and a Fulbright Scholar at Arizona State University. I specialize in Machine Learning, Embedded Systems, and Weather.
+I'm currently working on creating Nimbus Labs, where we're creating solutions for weather intelligence in Pakistan and addressing some of Pakistan’s most pressing climate challenges. Professionally, I’m an Electrical Engineer and a Fulbright Scholar (2023). I specialize in machine learning, embedded systems, some meteorology, and IoT, with my industry experience spanning across research, systems engineering, and developing scalable backend systems. My work is deeply motivated by my passion for solving meaningful problems that have a direct impact on the community around me. When I’m not working, I enjoy being outdoors in nature, playing the piano, and tracking storms as a weather enthusiast
 </p>
 
 ## Current Work:
-   - Founder at Nimbus Labs, where I am working on building AI-powered weather forecasting technologies designed specifically for Pakistan’s climate challenges, to deliver hyper-local weather intelligence that strengthens early-warning capabilities and drives business needs across the country. 
 
-## 🔭 Recent Work Experience
+## 🔭 Most Recent Work Experience
 - **Graduate Research Assistant, The Luminosity Lab**  
   - Developed an embedded system for an inflatable lunar landing pad (NASA Big Idea Challenge 2024) with award-winning systems engineering.
   - Lead a project to predict wind speed and direction using CNNs and wind noise correlation.
